@@ -2,7 +2,11 @@
 ## Overview
 The TRVL website is my first project delving into front-end web development with React, CSS, and JavaScript. It's a mock travel service site, designed to be visually striking and user-friendly, with a particular focus on mobile responsiveness. This project represents my initiation into creating engaging, functional, and visually appealing web pages, emphasizing front-end skills and responsiveness for various devices. 
 
-![GIF]("TRVL_Website_Demo.gif")
+<p float="left">
+  <img src="/path/to/image1.jpg" width="100" />
+  <img src="/path/to/image2.jpg" width="100" /> 
+  <img src="/path/to/image3.jpg" width="100" />
+</p>
 
 ## Features
 - **Engaging Home Screen**: Features a video background for an immersive experience.
