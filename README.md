@@ -23,8 +23,8 @@ To run the TRVL website on your local machine, follow these steps:
 
 1. **Clone the Respository**
    ```bash
-   git clone https://github.com/your-username/TRVL.git
-   cd TRVL
+   git clone https://github.com/SamiMelhem/TRVL_Website.git
+   cd TRVL_Website
    ```
 2. **Install Node.js and npm**
 
